@@ -1,2 +1,2 @@
-export const HOST = process.env.AUTH_HOST || 'localhost'
-export const PORT = process.env.AUTH_PORT || 2020
+export const HOST = process.env.HOST || 'localhost'
+export const PORT = process.env.PORT || 2020
