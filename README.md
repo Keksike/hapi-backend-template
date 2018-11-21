@@ -7,7 +7,7 @@ Includes:
 - example endpoint `POST /hello`
 - example Jest e2e test & service unit test
 - Joi request payload validation
-- Smart feature-driven folder structure and separation of HTTP handler & business logic
+- smart feature-driven folder structure and separation of HTTP handler & business logic
 - swagger API docs
 - winston logger
 - Dockerfile
