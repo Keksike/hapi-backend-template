@@ -1,6 +1,15 @@
 # Hapi Backend Template
 
-A boilerplate template for creating backends with Hapi
+A very basic boilerplate template for creating backends with Hapi.
+
+Includes:
+
+- Smart feature-driven folder structure and separation of HTTP handler & business logic
+- Joi request payload validation
+- example endpoint `POST /hello`
+- example Jest endpoint e2e & service unit test
+- swagger API docs
+- winston logger
 
 ## Dev guide
 
