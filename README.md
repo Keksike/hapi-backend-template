@@ -4,10 +4,10 @@ A very basic boilerplate template for creating backends with Hapi.
 
 Includes:
 
-- Smart feature-driven folder structure and separation of HTTP handler & business logic
-- Joi request payload validation
 - example endpoint `POST /hello`
 - example Jest endpoint e2e & service unit test
+- Joi request payload validation
+- Smart feature-driven folder structure and separation of HTTP handler & business logic
 - swagger API docs
 - winston logger
 - Dockerfile
