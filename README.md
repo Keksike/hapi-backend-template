@@ -10,6 +10,8 @@ Includes:
 - example Jest endpoint e2e & service unit test
 - swagger API docs
 - winston logger
+- Dockerfile
+- `.travis.yml` which runs tests
 
 ## Dev guide
 
